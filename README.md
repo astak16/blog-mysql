@@ -7,3 +7,6 @@
 
 # 题目
 [1 上升的温度](https://github.com/astak16/MySQL/issues/1)
+
+# 基础语法
+[`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
