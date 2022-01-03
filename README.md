@@ -7,7 +7,10 @@
 
 # 题目
 [1 上升的温度](https://github.com/astak16/MySQL/issues/1)
+
 [2 超过经理收入的员工](https://github.com/astak16/blog-mysql/issues/3)
+
+[3 超过 5 名学生的课](https://github.com/astak16/blog-mysql/issues/4)
 
 # 基础语法
 [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
