@@ -14,3 +14,4 @@
 
 # 基础语法
 [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
+[`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
