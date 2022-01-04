@@ -12,6 +12,9 @@
 
 [3 超过 5 名学生的课](https://github.com/astak16/blog-mysql/issues/4)
 
+[4 体育馆的人流](https://github.com/astak16/blog-mysql/issues/6)
+
 # 基础语法
 [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
+
 [`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
