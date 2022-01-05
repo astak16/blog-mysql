@@ -6,13 +6,11 @@
 当然了这里写的方法会有很多不足，欢迎在评论区指出。
 
 # 题目
-[1 上升的温度](https://github.com/astak16/MySQL/issues/1)
-
-[2 超过经理收入的员工](https://github.com/astak16/blog-mysql/issues/3)
-
-[3 超过 5 名学生的课](https://github.com/astak16/blog-mysql/issues/4)
-
-[4 体育馆的人流](https://github.com/astak16/blog-mysql/issues/6)
+1. [上升的温度](https://github.com/astak16/MySQL/issues/1)
+2. [超过经理收入的员工](https://github.com/astak16/blog-mysql/issues/3)
+3. [超过 5 名学生的课](https://github.com/astak16/blog-mysql/issues/4)
+4. [体育馆的人流](https://github.com/astak16/blog-mysql/issues/6)
+5. [变更性别](https://github.com/astak16/blog-mysql/issues/7)
 
 # 基础语法
 [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
