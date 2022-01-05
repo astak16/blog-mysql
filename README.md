@@ -13,6 +13,6 @@
 5. [变更性别](https://github.com/astak16/blog-mysql/issues/7)
 
 # 基础语法
-[`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
-
-[`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
+1. [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
+2. [`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
+3. [`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
