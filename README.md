@@ -11,6 +11,7 @@
 3. [超过 5 名学生的课](https://github.com/astak16/blog-mysql/issues/4)
 4. [体育馆的人流](https://github.com/astak16/blog-mysql/issues/6)
 5. [变更性别](https://github.com/astak16/blog-mysql/issues/7)
+6. [有趣的电影](https://github.com/astak16/blog-mysql/issues/9)
 
 # 基础语法
 1. [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
