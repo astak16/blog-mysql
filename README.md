@@ -16,6 +16,7 @@
 8. [当选者](https://github.com/astak16/blog-mysql/issues/11)
 
 # 基础语法
-1. [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
-2. [`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
-3. [`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
+1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
+2. [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
+3. [`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
+4. [`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
