@@ -13,6 +13,7 @@
 5. [变更性别](https://github.com/astak16/blog-mysql/issues/7)
 6. [有趣的电影](https://github.com/astak16/blog-mysql/issues/9)
 7. [重新格式化部门表](https://github.com/astak16/blog-mysql/issues/10)
+8. [当选者](https://github.com/astak16/blog-mysql/issues/11)
 
 # 基础语法
 1. [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
