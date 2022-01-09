@@ -14,6 +14,10 @@
 6. [有趣的电影](https://github.com/astak16/blog-mysql/issues/9)
 7. [重新格式化部门表](https://github.com/astak16/blog-mysql/issues/10)
 8. [当选者](https://github.com/astak16/blog-mysql/issues/11)
+9. [组合两个表](https://github.com/astak16/blog-mysql/issues/13)
+10. [大的国家](https://github.com/astak16/blog-mysql/issues/14)
+11. [部门工资前三高的所有员工](https://github.com/astak16/blog-mysql/issues/15)
+12. [第二高的薪水](https://github.com/astak16/blog-mysql/issues/16)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
