@@ -18,6 +18,7 @@
 10. [大的国家](https://github.com/astak16/blog-mysql/issues/14)
 11. [部门工资前三高的所有员工](https://github.com/astak16/blog-mysql/issues/15)
 12. [第二高的薪水](https://github.com/astak16/blog-mysql/issues/16)
+13. [游戏玩法分析 III](https://github.com/astak16/blog-mysql/issues/17)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
