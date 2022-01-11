@@ -19,10 +19,12 @@
 11. [部门工资前三高的所有员工](https://github.com/astak16/blog-mysql/issues/15)
 12. [第二高的薪水](https://github.com/astak16/blog-mysql/issues/16)
 13. [游戏玩法分析 I](https://github.com/astak16/blog-mysql/issues/18)
-14. [游戏玩法分析 III](https://github.com/astak16/blog-mysql/issues/17)
+14. [游戏玩法反洗 II](https://github.com/astak16/blog-mysql/issues/20)
+15. [游戏玩法分析 III](https://github.com/astak16/blog-mysql/issues/17)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
 2. [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
 3. [`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
 4. [`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
+5. [`any`、`all`、`some` 用法](https://github.com/astak16/blog-mysql/issues/19)
