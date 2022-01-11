@@ -21,6 +21,7 @@
 13. [游戏玩法分析 I](https://github.com/astak16/blog-mysql/issues/18)
 14. [游戏玩法分析 II](https://github.com/astak16/blog-mysql/issues/20)
 15. [游戏玩法分析 III](https://github.com/astak16/blog-mysql/issues/17)
+16. [游戏玩法分析 IV](https://github.com/astak16/blog-mysql/issues/21)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
