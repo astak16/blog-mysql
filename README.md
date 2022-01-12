@@ -22,6 +22,9 @@
 14. [游戏玩法分析 II](https://github.com/astak16/blog-mysql/issues/20)
 15. [游戏玩法分析 III](https://github.com/astak16/blog-mysql/issues/17)
 16. [游戏玩法分析 IV](https://github.com/astak16/blog-mysql/issues/21)
+17. [至少有五名直接下属的经理](https://github.com/astak16/blog-mysql/issues/22)
+18. [从不订购的客户](https://github.com/astak16/blog-mysql/issues/23)
+19. [第N高的薪水](https://github.com/astak16/blog-mysql/issues/24)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
