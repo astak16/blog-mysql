@@ -29,6 +29,8 @@
 21. [分数排名](https://github.com/astak16/blog-mysql/issues/26)
 22. [查找重复的电子邮箱](https://github.com/astak16/blog-mysql/issues/27)
 23. [小众书籍](https://github.com/astak16/blog-mysql/issues/28)
+24. [部门工资最高的员工](https://github.com/astak16/blog-mysql/issues/29)
+25. [删除重复的电子邮箱](https://github.com/astak16/blog-mysql/issues/30)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
