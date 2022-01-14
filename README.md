@@ -28,6 +28,7 @@
 20. [富有的客户数量](https://github.com/astak16/blog-mysql/issues/25)
 21. [分数排名](https://github.com/astak16/blog-mysql/issues/26)
 22. [查找重复的电子邮箱](https://github.com/astak16/blog-mysql/issues/27)
+23. [小众书籍](https://github.com/astak16/blog-mysql/issues/28)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
