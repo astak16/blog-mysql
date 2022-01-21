@@ -31,6 +31,9 @@
 23. [小众书籍](https://github.com/astak16/blog-mysql/issues/28)
 24. [部门工资最高的员工](https://github.com/astak16/blog-mysql/issues/29)
 25. [删除重复的电子邮箱](https://github.com/astak16/blog-mysql/issues/30)
+26. [员工薪水中位数](https://github.com/astak16/blog-mysql/issues/32)
+27. [员工奖金](https://github.com/astak16/blog-mysql/issues/33)
+28. [查询回答率最高的问题](https://github.com/astak16/blog-mysql/issues/34)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
