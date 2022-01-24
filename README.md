@@ -35,6 +35,7 @@
 27. [员工奖金](https://github.com/astak16/blog-mysql/issues/33)
 28. [查询回答率最高的问题](https://github.com/astak16/blog-mysql/issues/34)
 29. [给定数字的频率查询中位数](https://github.com/astak16/blog-mysql/issues/35)
+30. [查询员工的累计薪水](https://github.com/astak16/blog-mysql/issues/36)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
