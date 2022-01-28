@@ -42,5 +42,5 @@
 2. [MySQL 基本语法](https://github.com/astak16/blog-mysql/issues/31)
 3. [`datediff` 和 `timediff`](https://github.com/astak16/blog-mysql/issues/2)
 4. [`date_add` 和 `adddate`](https://github.com/astak16/blog-mysql/issues/5)
-5. [`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
+5. [序号函数：`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
 6. [`any`、`all`、`some` 用法](https://github.com/astak16/blog-mysql/issues/19)
