@@ -46,3 +46,4 @@
 5. [序号函数：`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
 6. [`any`、`all`、`some` 用法](https://github.com/astak16/blog-mysql/issues/19)
 7. [各种窗口函数的使用](https://github.com/astak16/blog-mysql/issues/38)
+8. [普通函数](https://github.com/astak16/blog-mysql/issues/39)
