@@ -36,6 +36,7 @@
 28. [查询回答率最高的问题](https://github.com/astak16/blog-mysql/issues/34)
 29. [给定数字的频率查询中位数](https://github.com/astak16/blog-mysql/issues/35)
 30. [查询员工的累计薪水](https://github.com/astak16/blog-mysql/issues/36)
+31. [连续出现的数字](https://github.com/astak16/blog-mysql/issues)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
@@ -45,3 +46,4 @@
 5. [序号函数：`row_number()`、`rank()`、`dense_rank()`](https://github.com/astak16/blog-mysql/issues/8)
 6. [`any`、`all`、`some` 用法](https://github.com/astak16/blog-mysql/issues/19)
 7. [各种窗口函数的使用](https://github.com/astak16/blog-mysql/issues/38)
+8. [普通函数](https://github.com/astak16/blog-mysql/issues/39)
