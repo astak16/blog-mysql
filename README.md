@@ -41,6 +41,9 @@
 33. [查询员工的累计薪水](https://github.com/astak16/blog-mysql/issues/44)
 34. [寻找用户推荐人](https://github.com/astak16/blog-mysql/issues/41)
 35. [统计各专业学生人数](https://github.com/astak16/blog-mysql/issues/42)
+36. [平均工资：部门与公司比较](https://github.com/astak16/blog-mysql/issues/45)
+37. [学生地理信息报告](https://github.com/astak16/blog-mysql/issues/46)
+38. [2016年的投资](https://github.com/astak16/blog-mysql/issues/47)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
