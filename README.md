@@ -36,7 +36,7 @@
 28. [查询回答率最高的问题](https://github.com/astak16/blog-mysql/issues/34)
 29. [给定数字的频率查询中位数](https://github.com/astak16/blog-mysql/issues/35)
 30. [查询员工的累计薪水](https://github.com/astak16/blog-mysql/issues/36)
-31. [连续出现的数字](https://github.com/astak16/blog-mysql/issues)
+31. [连续出现的数字](https://github.com/astak16/blog-mysql/issues/37)
 32. [给定数字的频率查询中位数](https://github.com/astak16/blog-mysql/issues/43)
 33. [查询员工的累计薪水](https://github.com/astak16/blog-mysql/issues/44)
 34. [寻找用户推荐人](https://github.com/astak16/blog-mysql/issues/41)
@@ -45,6 +45,7 @@
 37. [学生地理信息报告](https://github.com/astak16/blog-mysql/issues/46)
 38. [2016年的投资](https://github.com/astak16/blog-mysql/issues/47)
 39. [产品销售分析 I](https://github.com/astak16/blog-mysql/issues/48)
+40. [产品销售分析 II](https://github.com/astak16/blog-mysql/issues/49)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
