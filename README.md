@@ -44,6 +44,7 @@
 36. [平均工资：部门与公司比较](https://github.com/astak16/blog-mysql/issues/45)
 37. [学生地理信息报告](https://github.com/astak16/blog-mysql/issues/46)
 38. [2016年的投资](https://github.com/astak16/blog-mysql/issues/47)
+39. [产品销售分析 I](https://github.com/astak16/blog-mysql/issues/48)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
