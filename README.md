@@ -46,6 +46,7 @@
 38. [2016年的投资](https://github.com/astak16/blog-mysql/issues/47)
 39. [产品销售分析 I](https://github.com/astak16/blog-mysql/issues/48)
 40. [产品销售分析 II](https://github.com/astak16/blog-mysql/issues/49)
+41. [产品销售分析 III](https://github.com/astak16/blog-mysql/issues/50)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
