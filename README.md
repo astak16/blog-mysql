@@ -62,3 +62,6 @@
 7. [各种窗口函数的使用](https://github.com/astak16/blog-mysql/issues/38)
 8. [普通函数](https://github.com/astak16/blog-mysql/issues/39)
 9. [窗口函数定义](https://github.com/astak16/blog-mysql/issues/40)
+
+# 读书笔记
+1. [SQL 必知必会](https://github.com/astak16/blog-mysql/issues/55)
