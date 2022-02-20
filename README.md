@@ -51,6 +51,7 @@
 43. [中等][树节点](https://github.com/astak16/blog-mysql/issues/52)
 44. [困难][用户购买平台](https://github.com/astak16/blog-mysql/issues/53)
 45. [困难][游戏玩法分析 V](https://github.com/astak16/blog-mysql/issues/54)
+46. [困难][锦标赛优胜者](https://github.com/astak16/blog-mysql/issues/56)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
