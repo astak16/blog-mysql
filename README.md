@@ -53,6 +53,9 @@
 45. [困难][游戏玩法分析 V](https://github.com/astak16/blog-mysql/issues/54)
 46. [困难][锦标赛优胜者](https://github.com/astak16/blog-mysql/issues/56)
 47. [简单][连续空余的座位](https://github.com/astak16/blog-mysql/issues/57)
+48. [中等][找到连续区间的开始和结束数字](https://github.com/astak16/blog-mysql/issues/58)
+49. [中等][活跃用户](https://github.com/astak16/blog-mysql/issues/59)
+50. [困难][报告系统状态的连续日期](https://github.com/astak16/blog-mysql/issues/60)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
