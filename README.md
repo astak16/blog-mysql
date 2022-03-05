@@ -69,4 +69,5 @@
 9. [窗口函数定义](https://github.com/astak16/blog-mysql/issues/40)
 
 # 读书笔记
-1. [SQL 必知必会](https://github.com/astak16/blog-mysql/issues/55)
+1. [SQL 入门学习路径](https://github.com/astak16/blog-mysql/issues/62)
+2. [SQL 必知必会](https://github.com/astak16/blog-mysql/issues/55)
