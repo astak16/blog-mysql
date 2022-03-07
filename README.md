@@ -56,6 +56,7 @@
 48. [中等][找到连续区间的开始和结束数字](https://github.com/astak16/blog-mysql/issues/58)
 49. [中等][活跃用户](https://github.com/astak16/blog-mysql/issues/59)
 50. [困难][报告系统状态的连续日期](https://github.com/astak16/blog-mysql/issues/60)
+51. [中等][可疑银行账户](https://github.com/astak16/blog-mysql/issues/63)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
@@ -69,5 +70,5 @@
 9. [窗口函数定义](https://github.com/astak16/blog-mysql/issues/40)
 
 # 读书笔记
-1. [SQL 入门学习路径](https://github.com/astak16/blog-mysql/issues/62)
+1. [SQL 入门学习路径](https://github.com/astak16/blog-mysql/issues/61)
 2. [SQL 必知必会](https://github.com/astak16/blog-mysql/issues/55)
