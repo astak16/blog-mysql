@@ -57,6 +57,7 @@
 49. [中等][活跃用户](https://github.com/astak16/blog-mysql/issues/59)
 50. [困难][报告系统状态的连续日期](https://github.com/astak16/blog-mysql/issues/60)
 51. [中等][可疑银行账户](https://github.com/astak16/blog-mysql/issues/63)
+52. [中等][寻找面试候选人](https://github.com/astak16/blog-mysql/issues/64)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
