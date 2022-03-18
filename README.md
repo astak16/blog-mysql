@@ -35,7 +35,7 @@
 27. [简单][员工奖金](https://github.com/astak16/blog-mysql/issues/33)
 28. [中等][查询回答率最高的问题](https://github.com/astak16/blog-mysql/issues/34)
 29. [困难][给定数字的频率查询中位数](https://github.com/astak16/blog-mysql/issues/35)
-30. [困难][查询员工的累计薪水](https://github.com/astak16/blog-mysql/issues/36)
+30. [困难][行程和用户](https://github.com/astak16/blog-mysql/issues/36)
 31. [中等][连续出现的数字](https://github.com/astak16/blog-mysql/issues/37)
 32. [困难][给定数字的频率查询中位数](https://github.com/astak16/blog-mysql/issues/43)
 33. [困难][查询员工的累计薪水](https://github.com/astak16/blog-mysql/issues/44)
