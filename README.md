@@ -1,4 +1,4 @@
-> Create by 草叔 2022-01-02
+> Create by uccs 2022-01-02
 
 # MySQL
 最近学了一段时间 MySQL，在 [leetcode](https://leetcode-cn.com/problemset/database/) 官网找了写题目练手，我开这个项目是用来记录自己学习过程中的思考。
