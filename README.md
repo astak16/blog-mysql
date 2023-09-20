@@ -65,6 +65,7 @@
 57. [中等][最后一个能进入巴士的人](https://github.com/astak16/blog-mysql/issues/69)
 58. [中等][电影评分](https://github.com/astak16/blog-mysql/issues/70)
 59. [中等][确认率](https://github.com/astak16/blog-mysql/issues/71)
+60. [简单][判断三角形](https://github.com/astak16/blog-mysql/issues/72)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
