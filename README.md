@@ -67,6 +67,7 @@
 59. [中等][确认率](https://github.com/astak16/blog-mysql/issues/71)
 60. [简单][判断三角形](https://github.com/astak16/blog-mysql/issues/72)
 61. [中等][餐馆营业额变化增长](https://github.com/astak16/blog-mysql/issues/74)
+62. [中等][按分类统计薪水](https://github.com/astak16/blog-mysql/issues/75)
 
 # 基础语法
 1. [`select` 语句内部执行顺序](https://github.com/astak16/blog-mysql/issues/12)
